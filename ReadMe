@@ -1,3 +1,4 @@
+Search each topic, right the idea behind it, how it is implemented, implement it in python and write whats its time complexity and how it will be used in real world, why would it be better in some cases and worst in some
 • Linear Probing, Quadratic Probing
 • Hash tables (Double hashing, Cuckoo hashing, Advanced Hashing)
 • Priority queues
@@ -61,10 +62,7 @@ Global landscape of HIV–human protein complexes by S. Jäger et al. Nature
 481, 365–370 (19 January 2012)
 Design an algorithm that finds the longest path between two
 vertices, and discuss its complexity
--------------------------------------------
-
 ✓ Traveling salesman problem
-✓ Matrix chain multiplication
 ✓ Optimal binary search trees
 ✓ 0-1 knapsack problem
 ✓ Assembly-line scheduling
@@ -74,3 +72,27 @@ Markov model
 ✓ Applications to speech recognition and
 multiple bio-sequence alignment
 ✓ Spell Checker
+------------------------------------------
+Pattern matching using brute force
+KMP
+Boyer moores algorithm
+Tries and their application
+Compressed trie
+Ternary Search Trie
+Inverted index
+Construct the Huffman trie for the following string “try a great and
+pretty trie”
+-----------------------------------------
+Write a program that implements a simple web search engine that
+uses regular expressions as keywords. For example, entering (“[a-zA-
+Z][0-9][a-zA-Z]\\s?[a-zA-Z][0-9][a-zA-Z] will search postal codes,
+while entering (micro)?( |-)?(array|chip)(s)? will search documents
+about microarrays.
+17. Consider the simplified HTML grammar.
+1. Modify it to add Java applets. Assume there is another
+grammar for the applet.
+2. Add different types of headings: h1, h2, ..., h6
+3. Add other types of text formatting: e.g., underlined
+4. Add email addresses
+5. Add footer, article, section
+6. Add the Doctype tag
