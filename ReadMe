@@ -1,3 +1,68 @@
+• Linear Probing, Quadratic Probing
+• Hash tables (Double hashing, Cuckoo hashing, Advanced Hashing)
+• Priority queues
+• Binary heaps
+• Leftist heap
+• Skew heap
+• Binomial queue
+• Fibonacci heap
+• Problem: given an unsorted list S of n keys,
+find the kth smallest key (or the k smallest keys
+• Application 2: Counting word frequencies
+-------------------------------------------
+• Trees
+• Binary trees (Traversals)
+• Binary search
+• Binary search trees
+• Balanced search trees
+• AVL trees
+• Multiway search trees
+• Red-black trees
+• Splay trees
+• B-trees
+----------------------------------------
+• Sorting
+• Merge sort
+• Quicksort 
+• Quicksort (inplace)
+• Heap sort
+• Lower bounds for sorting
+• Selection
+• Bucket sort
+• Radix sort
+• Counting sort
+Comparison-based sorting – lower bound 
+-----------------------------------------
+• Recursion
+• Divide and conquer
+• Recurrences
+• Master method
+• Dynamic programming
+• Longest common subsequence
+• Edit distance
+• Applications
+• Spellchecking
+• Document processing 
+• Chain Matrix
+• BackTracking
+• Bellmonford 
+-------------------------------------
+Adjcancey list
+Adjcancey matrix
+Sparse
+Dense
+Prism
+Krushkal Algorithn
+BFS
+DFS
+Dijstra
+Biological networks
+Global landscape of HIV–human protein complexes by S. Jäger et al. Nature
+481, 365–370 (19 January 2012)
+Design an algorithm that finds the longest path between two
+vertices, and discuss its complexity
+-------------------------------------------
+
 ✓ Traveling salesman problem
 ✓ Matrix chain multiplication
 ✓ Optimal binary search trees
