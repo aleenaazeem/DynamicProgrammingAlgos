@@ -97,3 +97,21 @@ grammar for the applet.
 4. Add email addresses
 5. Add footer, article, section
 6. Add the Doctype tag
+-----------------------------------------------Appendix
+Huffman coding
+Job scheduling
+Fractional Knapssack
+LIS (Longest Increading Subsequence)
+Coin Change
+Matrix DP
+DP on subset
+Backtracking (N-Queens, Sudoku Solver, Word Search, Combination generators)
+Flyod-Warshall
+Union-find(Disjoint Set Union)
+Topological Sort (Kahns Algo)
+Rabin Karp
+Sliding Window Technique
+Two pointers Technique
+Bit Manipulation
+Monotonic Stack/Queue
+Segment Trees
